@@ -1,4 +1,4 @@
-### Hello there, my name is Michael 👋
+### Hello there, I'm Michael 👋
 
 ### ⚙️ My capstone project: [Brain-store-m Board](https://github.com/pastasauce59/brain-store-m-board_frontend)
 
