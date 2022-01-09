@@ -4,7 +4,7 @@
 
 -  🔭 I’m currently working on ... [Animalgram 2.0](https://github.com/pastasauce59/animalgram-2.0-frontend)
 
--  🌱 I’m currently learning ... more on algorithms and datastructures
+-  🌱 I’m currently learning ... more on algorithms and data structures
 
 -  💬 Ask me about ... what sparked my interest to start a career in software engineering
 
