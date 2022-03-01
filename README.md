@@ -26,7 +26,7 @@
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/142083965-655aa09e-3e0b-4284-a3e4-88738bb543d5.png" alt="sql" width="40" height="40"/></a>
 
 ### You can also connect with me on LinkedIn:
-<a href="https://www.linkedin.com/in/michael-primavera-2282001ba/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="abbiecoghlan" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-primavera-2282001ba/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="MichaelPrimavera" height="40" width="40" /></a>
 
 <!--
 **pastasauce59/pastasauce59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
