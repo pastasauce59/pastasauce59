@@ -12,7 +12,7 @@
 
 -  📫 How to reach me: mikeprimo91@gmail.com
 
--  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m either listening to lofi beats or anjunadeep 💻 🎧
+-  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to <del>lofi beats or anjunadeep</del> Current flavor: DRUM & BASS 💻 🎧 Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w
 
 
 ### Languages:
