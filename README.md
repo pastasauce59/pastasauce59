@@ -2,9 +2,9 @@
 
 ### 💼 My [portfolio](https://pastasauce59.github.io/Portfolio/) page.
 
-### ⚙️ My capstone project: [Brain-store-m Board](https://modest-ramanujan-2ed9a4.netlify.app) | [Frontend](https://github.com/pastasauce59/brain-store-m-board_frontend) | [Backend](https://github.com/pastasauce59/brain-store-m-board_backend)
+### ⚙️ My capstone project: [Brain-store-m Board](https://brain-store-mboard.netlify.app) | [Frontend](https://github.com/pastasauce59/brain-store-m-board_frontend) | [Backend](https://github.com/pastasauce59/brain-store-m-board_backend)
 
--  🔭 I’m currently working on ... [Study Japanese](https://github.com/pastasauce59/study-japanese)
+-  🔭 I’m currently working on ... [Study Japanese](https://study-japanese-alphabet.netlify.app)| [Repo](https://github.com/pastasauce59/study-japanese)
 
 -  🌱 I’m currently learning ... more on algorithms and data structures
 
