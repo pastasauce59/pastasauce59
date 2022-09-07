@@ -4,7 +4,7 @@
 
 ### ⚙️ My capstone project: [Brain-store-m Board](https://brain-store-mboard.netlify.app) | [Frontend](https://github.com/pastasauce59/brain-store-m-board_frontend) | [Backend](https://github.com/pastasauce59/brain-store-m-board_backend)
 
--  🔭 I’m currently working on ... Emaily | [Repo](https://github.com/pastasauce59/Emaily)
+-  🔭 I’m currently working on ... [Emaily](https://emaily-email.herokuapp.com/) | [Repo](https://github.com/pastasauce59/Emaily)
 
 -  🌱 I’m currently learning ... more on algorithms and data structures
 
