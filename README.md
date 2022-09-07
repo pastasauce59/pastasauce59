@@ -15,7 +15,7 @@
 -  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to <del>lofi beats or anjunadeep</del> Current flavor: DRUM & BASS 💻 🎧 Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w
 
 
-### Languages:
+### Technologies:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
