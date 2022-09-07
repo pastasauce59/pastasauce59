@@ -1,4 +1,4 @@
-### Hello there, I'm Michael 👋
+### Hello world, I'm Michael 👋
 
 ### 💼 My [portfolio](https://pastasauce59.github.io/Portfolio/) page.
 
