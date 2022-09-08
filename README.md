@@ -17,6 +17,9 @@
 
 ### Technologies:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189132741-1d0a9571-5aa0-476d-aea9-6595d405ec8d.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189132744-893ac0e6-837b-40d2-8119-ae1257051438.svg" alt="react" width="40" height="40"/></a>
+<a href="https://react-redux.js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189132747-e54a6429-8798-41c5-a011-6835180985e8.svg" alt="react" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
