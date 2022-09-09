@@ -12,7 +12,7 @@
 
 -  📫 How to reach me: mikeprimo91@gmail.com
 
--  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to <del>lofi beats or anjunadeep</del> Current flavor: DRUM & BASS 💻 🎧 Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w
+-  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to <del>lofi beats or anjunadeep</del> Current flavor: <del>DRUM & BASS 💻 🎧 Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w</del> House music from a pirate ship in Ibiza 🏴‍☠️ - https://www.youtube.com/watch?v=dDPqDgL7Wno&t=1s
 
 
 ### Technologies:
