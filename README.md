@@ -6,7 +6,7 @@
 
 -  🔭 I’m currently working on ... [Emaily](https://emaily-email.herokuapp.com/) | [Repo](https://github.com/pastasauce59/Emaily)
 
--  🌱 I’m currently learning ... more on algorithms and data structures
+-  🌱 I’m currently learning ... [Typescript](https://www.udemy.com/course/learn-typescript/)
 
 -  💬 Ask me about ... what sparked my interest to start a career in software engineering
 
