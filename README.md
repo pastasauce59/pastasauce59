@@ -15,9 +15,6 @@
 -  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to <del>lofi beats or anjunadeep</del> Current flavor: <del>DRUM & BASS 💻 🎧 Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w</del> House music from a pirate ship in Ibiza 🏴‍☠️ - https://www.youtube.com/watch?v=dDPqDgL7Wno&t=1s
 
 
-![icons8-typescript](https://user-images.githubusercontent.com/79714290/189480735-fbe90b5c-8347-4b18-b659-d290aa71f514.svg)
-
-
 ### Technologies:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189480735-fbe90b5c-8347-4b18-b659-d290aa71f514.svg" alt="react" width="40" height="40"/></a>
