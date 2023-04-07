@@ -12,7 +12,7 @@
 
 -  📫 How to reach me: mikeprimo91@gmail.com
 
--  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to some kind of music that gets me in a flow state. Current flavor: <del>DRUM & BASS 💻 🎧 Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w</del> <del>House music from a pirate ship in Ibiza 🏴‍☠️ - https://www.youtube.com/watch?v=dDPqDgL7Wno&t=1s</del> Space jazz 🪐 - https://youtu.be/dJTUe_WDgro
+-  ⚡ Fun fact: If I’m coding then there’s a 99% chance I’m listening to some kind of music that gets me in a flow state. 💻 🎧 Current flavor: <del>DRUM & BASS! Check this guy out and catch a vibe! - https://www.youtube.com/watch?v=g3r6Hthup8w</del> <del>House music from a pirate ship in Ibiza 🏴‍☠️ - https://www.youtube.com/watch?v=dDPqDgL7Wno&t=1s</del> Space jazz 🪐 - https://youtu.be/dJTUe_WDgro
 
 ### Technologies:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
