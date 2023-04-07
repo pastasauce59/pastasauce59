@@ -17,6 +17,7 @@
 
 ### Technologies:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/230534158-07a4a034-095f-4d5b-af29-b29bef84f1d3.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189480735-fbe90b5c-8347-4b18-b659-d290aa71f514.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189132741-1d0a9571-5aa0-476d-aea9-6595d405ec8d.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/79714290/189132744-893ac0e6-837b-40d2-8119-ae1257051438.svg" alt="react" width="40" height="40"/></a>
